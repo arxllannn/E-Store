@@ -1,5 +1,6 @@
 #Screenshots
-![Uploading localhost_ecommerce_store_index.php.png…]()
+![localhost_ecommerce_store_index php](https://github.com/arxllannn/E-Store/assets/147667804/7dbe0efa-6d52-40f0-8797-ae9be415e0e6)
+
 ![localhost_ecommerce_store_product php](https://github.com/arxllannn/E-Store/assets/147667804/80d7a513-58e6-414c-93bf-f53c0238b199)
 ![localhost_ecommerce_store_blog php](https://github.com/arxllannn/E-Store/assets/147667804/557b0549-0121-4aeb-88ae-c6b57f30a42c)
 ![localhost_ecommerce_store_contact php](https://github.com/arxllannn/E-Store/assets/147667804/5977c275-f399-40ba-9c28-d3174af4a392)
