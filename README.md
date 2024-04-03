@@ -12,7 +12,7 @@ From the moment you swipe on your phone to browse, to the leisurely scroll on yo
 ![localhost_ecommerce_store_blog php](https://github.com/arxllannn/E-Store/assets/147667804/557b0549-0121-4aeb-88ae-c6b57f30a42c)
 ![localhost_ecommerce_store_contact php](https://github.com/arxllannn/E-Store/assets/147667804/5977c275-f399-40ba-9c28-d3174af4a392)
 ![localhost_ecommerce_store_about php](https://github.com/arxllannn/E-Store/assets/147667804/9444edd5-aee7-4eb5-86cf-ecd0fc59363b)
-![localhost_ecommerce_store_product_details php_product_id=57](https://github.com/arxllannn/E-Store/assets/147667804/9aa24049-9960-4939-9ce4-97dfa8baeeac)
+![localhost_ecommerce_store_product_details php_product_id=57 (1)](https://github.com/arxllannn/E-Store/assets/147667804/ffc2760a-6f92-4ed1-92a6-81913847bd39)
 ![localhost_ecommerce_store_account php](https://github.com/arxllannn/E-Store/assets/147667804/dbcb1676-b0ec-4acf-bec4-a71968695908)
 ![localhost_ecommerce_store_register php](https://github.com/arxllannn/E-Store/assets/147667804/efbd166f-709f-4130-bc84-28a6275bb240)
 ![localhost_ecommerce_store_login php](https://github.com/arxllannn/E-Store/assets/147667804/654af133-85b3-4504-b029-5e802d9b9402)
